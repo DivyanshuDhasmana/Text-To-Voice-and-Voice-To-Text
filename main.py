@@ -36,7 +36,7 @@ class VoiceTextConverter:
         self.button = ttk.Button(text="Perform Action", command=self.perform_action)
         self.button.place(x=50, y=150)
 
-        self.label = ttk.Label(text="Made by Ayush")
+        self.label = ttk.Label(text="Made by Divyanshu")
         self.label.place(x=300, y=200)
 
         self.message_label = ttk.Label( text="")
